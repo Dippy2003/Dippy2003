@@ -4,7 +4,12 @@
 
 <img src="hero.svg" width="100%" alt="Dipna, BSc (Hons) Data Science undergraduate at SLIIT" />
 
-<img src="stack.svg" width="100%" alt="Kotlin, Java, C++, C#, React, Angular, Node.js, Express, MongoDB, SQL, Git, Figma, Android" />
+<p>
+  <a href="https://github.com/Dippy2003/does-gemma-think-in-english"><img width="49.5%" src="cards/gemma.svg" alt="does-gemma-think-in-english" /></a>
+  <a href="https://github.com/Dippy2003/KaratPOS"><img width="49.5%" src="cards/karatpos.svg" alt="KaratPOS" /></a>
+  <a href="https://github.com/Dippy2003/football-fatigue-analytics"><img width="49.5%" src="cards/football.svg" alt="football-fatigue-analytics" /></a>
+  <a href="https://github.com/Dippy2003/pinecone-rag-studio"><img width="49.5%" src="cards/rag.svg" alt="pinecone-rag-studio" /></a>
+</p>
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dippy2003&show_icons=true&theme=dark&bg_color=080b10&border_color=1b222c&title_color=ff004c&icon_color=ff004c" />
