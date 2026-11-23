@@ -17,24 +17,24 @@
 
   <!-- name -->
   <text x="30" y="110" fill="#f2f5f8" font-size="64" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="300">Dipna</text>
-  <text x="32" y="150" fill="#c9d1d9" font-size="14">Software engineering, web and mobile apps<tspan fill="#ff004c">
+  <text x="32" y="150" fill="#c9d1d9" font-size="14">Data science, software engineering and open source<tspan fill="#ff004c">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
 
   <text x="32" y="206" fill="#6b7685" font-size="11" letter-spacing="1">NOW</text>
-  <text x="132" y="206" fill="#e6edf3" font-size="14" font-weight="700">learning, building and shipping projects</text>
+  <text x="132" y="206" fill="#e6edf3" font-size="14" font-weight="700">working at EDL, studying at SLIIT</text>
   <text x="32" y="242" fill="#6b7685" font-size="11" letter-spacing="1">HANDLE</text>
   <text x="132" y="242" fill="#e6edf3" font-size="14" font-weight="700">@Dippy2003</text>
 
   <!-- right grid -->
-  <text x="710" y="72" fill="#6b7685" font-size="11" letter-spacing="1">STUDYING AT</text>
-  <text x="710" y="112" fill="#e6edf3" font-size="15" font-weight="700">SLIIT</text>
+  <text x="710" y="72" fill="#6b7685" font-size="11" letter-spacing="1">WORKING AT</text>
+  <text x="710" y="112" fill="#e6edf3" font-size="15" font-weight="700">EDL (Pvt) Ltd</text>
 
   <text x="930" y="72" fill="#6b7685" font-size="11" letter-spacing="1">FOCUS</text>
-  <text x="930" y="112" fill="#e6edf3" font-size="15" font-weight="700">web &amp; mobile apps</text>
+  <text x="930" y="112" fill="#e6edf3" font-size="15" font-weight="700">data science</text>
 
   <text x="710" y="203" fill="#6b7685" font-size="11" letter-spacing="1">DEGREE</text>
   <text x="710" y="243" fill="#e6edf3" font-size="15" font-weight="700">BSc (Hons) SE</text>
 
-  <text x="930" y="203" fill="#6b7685" font-size="11" letter-spacing="1">OPEN TO</text>
-  <text x="930" y="243" fill="#ff004c" font-size="15" font-weight="700">internships</text>
+  <text x="930" y="203" fill="#6b7685" font-size="11" letter-spacing="1">STUDYING</text>
+  <text x="930" y="243" fill="#e6edf3" font-size="15" font-weight="700">Data Science</text>
 </svg>
