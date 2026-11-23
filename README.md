@@ -2,17 +2,15 @@
   <img src="https://timeline-readme.vercel.app/api/timeline?accent=ff004c&amp;rider=sail" width="100%" alt="Dippy2003's contribution wave">
 </a>
 
-# Hi, I'm Dipna 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Hi,%20I'm%20Dipna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<h3 align="center">👋 Welcome to my corner of GitHub</h3>
 
 Software Engineering undergraduate at **SLIIT** who enjoys turning real-world problems into practical web and mobile solutions.
 
-| | |
-|---|---|
-| 🎓 **Studying** | BSc (Hons) in Software Engineering, SLIIT Faculty of Computing |
-| 🔭 **Interested in** | Web & mobile app development, UI/UX |
-| 🌱 **Learning** | New technologies, and better ways to build and ship software |
-| 🤝 **Looking for** | Internships, industry projects and collaborations |
-| 📫 **Handle** | [@Dippy2003](https://github.com/Dippy2003) |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF004C&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate+%40+SLIIT;Web+%26+Mobile+App+Developer;Kotlin+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+real-world+problems+into+solutions;Open+to+internships+%26+collaborations" alt="typing animation" />
+</p>
 
 ## 🛠 Stack
 
@@ -35,14 +33,9 @@ Software Engineering undergraduate at **SLIIT** who enjoys turning real-world pr
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dippy2003&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ff004c&icon_color=ff004c" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dippy2003&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ff004c" />
 
-## 🐍 My contribution snake (eats my commits)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dippy2003/Dippy2003/output/github-snake-dark.svg" />
-  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/Dippy2003/Dippy2003/output/github-snake.svg" />
-</picture>
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipna_Wijesinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipna-wijesinghe-50401a396/)
 [![GitHub](https://img.shields.io/badge/GitHub-Dippy2003-181717?style=for-the-badge&logo=github)](https://github.com/Dippy2003)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
