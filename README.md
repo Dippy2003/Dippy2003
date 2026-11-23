@@ -14,4 +14,3 @@
 <a href="https://dipnaportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-dipnaportfolio.vercel.app-ff004c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=080b10" alt="Portfolio" /></a>
 <a href="https://x.com/dippy_w"><img src="https://img.shields.io/badge/X-@dippy__w-e6edf3?style=for-the-badge&logo=x&logoColor=white&labelColor=080b10" alt="X" /></a>
 <a href="https://www.linkedin.com/in/dipna-wijesinghe-50401a396/"><img src="https://img.shields.io/badge/LINKEDIN-Dipna_Wijesinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080b10" alt="LinkedIn" /></a>
-<a href="https://github.com/Dippy2003"><img src="https://img.shields.io/badge/GITHUB-Dippy2003-e6edf3?style=for-the-badge&logo=github&logoColor=white&labelColor=080b10" alt="GitHub" /></a>
