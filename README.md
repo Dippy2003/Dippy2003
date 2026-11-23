@@ -2,13 +2,13 @@
   <img src="https://timeline-readme.vercel.app/api/timeline?accent=ff004c&amp;rider=sail" width="100%" alt="Dippy2003's contribution wave">
 </a>
 
-<img src="hero.svg" width="100%" alt="Dipna, BSc (Hons) Data Science undergraduate at SLIIT" />
+<img src="hero.svg?v=2" width="100%" alt="Dipna, BSc (Hons) Data Science undergraduate at SLIIT" />
 
 <p>
-  <a href="https://github.com/Dippy2003/does-gemma-think-in-english"><img width="49.5%" src="cards/gemma.svg" alt="does-gemma-think-in-english" /></a>
-  <a href="https://github.com/Dippy2003/KaratPOS"><img width="49.5%" src="cards/karatpos.svg" alt="KaratPOS" /></a>
-  <a href="https://github.com/Dippy2003/football-fatigue-analytics"><img width="49.5%" src="cards/football.svg" alt="football-fatigue-analytics" /></a>
-  <a href="https://github.com/Dippy2003/pinecone-rag-studio"><img width="49.5%" src="cards/rag.svg" alt="pinecone-rag-studio" /></a>
+  <a href="https://github.com/Dippy2003/does-gemma-think-in-english"><img width="49.5%" src="cards/gemma.svg?v=2" alt="does-gemma-think-in-english" /></a>
+  <a href="https://github.com/Dippy2003/KaratPOS"><img width="49.5%" src="cards/karatpos.svg?v=2" alt="KaratPOS" /></a>
+  <a href="https://github.com/Dippy2003/football-fatigue-analytics"><img width="49.5%" src="cards/football.svg?v=2" alt="football-fatigue-analytics" /></a>
+  <a href="https://github.com/Dippy2003/pinecone-rag-studio"><img width="49.5%" src="cards/rag.svg?v=2" alt="pinecone-rag-studio" /></a>
 </p>
 
 <p>
