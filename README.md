@@ -2,7 +2,7 @@
   <img src="https://timeline-readme.vercel.app/api/timeline?accent=ff004c&amp;rider=sail" width="100%" alt="Dippy2003's contribution wave">
 </a>
 
-<img src="hero.svg" width="100%" alt="Dipna, software engineering undergraduate at SLIIT" />
+<img src="hero.svg" width="100%" alt="Dipna, BSc (Hons) Data Science undergraduate at SLIIT" />
 
 <img src="stack.svg" width="100%" alt="Kotlin, Java, C++, C#, React, Angular, Node.js, Express, MongoDB, SQL, Git, Figma, Android" />
 
