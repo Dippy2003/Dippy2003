@@ -1,8 +1,11 @@
 <a href="https://github.com/Dippy2003">
-  <img src="https://timeline-readme.vercel.app/api/timeline?accent=ff004c&amp;rider=sail" width="100%" alt="Dippy2003's contribution wave">
+  <img src="https://timeline-readme.vercel.app/api/timeline?accent=ff004c&amp;rider=sail" width="804" alt="Dippy2003's contribution wave">
 </a>
 
-<img src="hero.svg?v=3" width="100%" alt="Dipna, BSc (Hons) Data Science undergraduate at SLIIT" />
+<picture>
+  <source media="(max-width: 700px)" srcset="hero.svg?v=4" />
+  <img src="hero-wide.svg?v=1" width="804" alt="Dipna, BSc (Hons) Data Science undergraduate at SLIIT" />
+</picture>
 
 <p>
   <a href="https://github.com/Dippy2003/does-gemma-think-in-english"><img width="400" src="cards/gemma.svg?v=3" alt="does-gemma-think-in-english" /></a>
