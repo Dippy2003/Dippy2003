@@ -16,7 +16,7 @@
   <line x1="420" y1="190" x2="719" y2="190" stroke="#1b222c"/>
 
   <!-- name -->
-  <text x="30" y="110" fill="#f2f5f8" font-size="64" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="300">Dipna</text>
+  <text x="28" y="140" fill="#f2f5f8" font-size="80" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="300">Dipna</text>
   <text x="32" y="150" fill="#c9d1d9" font-size="14">Data platforms, analytics and software engineering<tspan fill="#ff004c">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
 
