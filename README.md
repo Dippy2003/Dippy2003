@@ -5,10 +5,10 @@
 <img src="hero.svg?v=3" width="100%" alt="Dipna, BSc (Hons) Data Science undergraduate at SLIIT" />
 
 <p>
-  <a href="https://github.com/Dippy2003/does-gemma-think-in-english"><img width="100%" src="cards/gemma.svg?v=3" alt="does-gemma-think-in-english" /></a>
-  <a href="https://github.com/Dippy2003/KaratPOS"><img width="100%" src="cards/karatpos.svg?v=3" alt="KaratPOS" /></a>
-  <a href="https://github.com/Dippy2003/football-fatigue-analytics"><img width="100%" src="cards/football.svg?v=3" alt="football-fatigue-analytics" /></a>
-  <a href="https://github.com/Dippy2003/pinecone-rag-studio"><img width="100%" src="cards/rag.svg?v=3" alt="pinecone-rag-studio" /></a>
+  <a href="https://github.com/Dippy2003/does-gemma-think-in-english"><img width="400" src="cards/gemma.svg?v=3" alt="does-gemma-think-in-english" /></a>
+  <a href="https://github.com/Dippy2003/KaratPOS"><img width="400" src="cards/karatpos.svg?v=3" alt="KaratPOS" /></a>
+  <a href="https://github.com/Dippy2003/football-fatigue-analytics"><img width="400" src="cards/football.svg?v=3" alt="football-fatigue-analytics" /></a>
+  <a href="https://github.com/Dippy2003/pinecone-rag-studio"><img width="400" src="cards/rag.svg?v=3" alt="pinecone-rag-studio" /></a>
 </p>
 
 <p align="center">
