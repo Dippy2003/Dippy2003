@@ -22,8 +22,8 @@
 
   <text x="30" y="240" fill="#6b7685" font-size="12" letter-spacing="1">NOW</text>
   <text x="104" y="240" fill="#e6edf3" font-size="15" font-weight="700">building data platforms at EDL</text>
-  <text x="32" y="242" fill="#6b7685" font-size="11" letter-spacing="1">HANDLE</text>
-  <text x="132" y="242" fill="#e6edf3" font-size="14" font-weight="700">@Dippy2003</text>
+  <text x="30" y="282" fill="#6b7685" font-size="12" letter-spacing="1">HANDLE</text>
+  <text x="104" y="282" fill="#e6edf3" font-size="15" font-weight="700">@Dippy2003</text>
 
   <!-- right grid -->
   <text x="710" y="72" fill="#6b7685" font-size="11" letter-spacing="1">WORKING AT</text>
