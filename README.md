@@ -11,10 +11,6 @@
   <a href="https://github.com/Dippy2003/pinecone-rag-studio"><img width="49.5%" src="cards/rag.svg?v=2" alt="pinecone-rag-studio" /></a>
 </p>
 
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dippy2003&show_icons=true&theme=dark&bg_color=080b10&border_color=1b222c&title_color=ff004c&icon_color=ff004c" />
-</p>
-
 <a href="https://dipnaportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-dipnaportfolio.vercel.app-ff004c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=080b10" alt="Portfolio" /></a>
 <a href="https://x.com/dippy_w"><img src="https://img.shields.io/badge/X-@dippy__w-e6edf3?style=for-the-badge&logo=x&logoColor=white&labelColor=080b10" alt="X" /></a>
 <a href="https://www.linkedin.com/in/dipna-wijesinghe-50401a396/"><img src="https://img.shields.io/badge/LINKEDIN-Dipna_Wijesinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080b10" alt="LinkedIn" /></a>
