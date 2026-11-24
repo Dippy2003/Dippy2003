@@ -13,7 +13,7 @@
   <!-- vertical / horizontal grid lines -->
   <line x1="420" y1="41" x2="420" y2="339" stroke="#1b222c"/>
   <line x1="570" y1="41" x2="570" y2="339" stroke="#1b222c"/>
-  <line x1="688" y1="168" x2="1127" y2="168" stroke="#1b222c"/>
+  <line x1="420" y1="190" x2="719" y2="190" stroke="#1b222c"/>
 
   <!-- name -->
   <text x="30" y="110" fill="#f2f5f8" font-size="64" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="300">Dipna</text>
