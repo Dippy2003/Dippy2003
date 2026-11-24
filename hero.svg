@@ -17,7 +17,7 @@
 
   <!-- name -->
   <text x="28" y="140" fill="#f2f5f8" font-size="80" font-family="-apple-system,'Helvetica Neue',Arial,sans-serif" font-weight="300">Dipna</text>
-  <text x="32" y="150" fill="#c9d1d9" font-size="14">Data platforms, analytics and software engineering<tspan fill="#ff004c">
+  <text x="30" y="182" fill="#c9d1d9" font-size="15">Data platforms and analytics<tspan fill="#ff004c">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
 
   <text x="32" y="206" fill="#6b7685" font-size="11" letter-spacing="1">NOW</text>
