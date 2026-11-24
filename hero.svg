@@ -2,7 +2,7 @@
   <rect x="0.5" y="0.5" width="719" height="339" fill="#080b10" stroke="#1b222c"/>
 
   <!-- top bar -->
-  <rect x="0.5" y="0.5" width="1127" height="36" fill="#0b0f15" stroke="#1b222c"/>
+  <rect x="0.5" y="0.5" width="719" height="40" fill="#0b0f15" stroke="#1b222c"/>
   <text x="16" y="23" fill="#e6edf3" font-size="13" font-weight="700">Dipna</text>
   <rect x="68" y="14" width="8" height="8" fill="#ff004c">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
