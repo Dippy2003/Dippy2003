@@ -7,7 +7,7 @@
 <p>
   <a href="https://github.com/Dippy2003/does-gemma-think-in-english"><img width="100%" src="cards/gemma.svg?v=2" alt="does-gemma-think-in-english" /></a>
   <a href="https://github.com/Dippy2003/KaratPOS"><img width="100%" src="cards/karatpos.svg?v=2" alt="KaratPOS" /></a>
-  <a href="https://github.com/Dippy2003/football-fatigue-analytics"><img width="49.5%" src="cards/football.svg?v=2" alt="football-fatigue-analytics" /></a>
+  <a href="https://github.com/Dippy2003/football-fatigue-analytics"><img width="100%" src="cards/football.svg?v=2" alt="football-fatigue-analytics" /></a>
   <a href="https://github.com/Dippy2003/pinecone-rag-studio"><img width="49.5%" src="cards/rag.svg?v=2" alt="pinecone-rag-studio" /></a>
 </p>
 
