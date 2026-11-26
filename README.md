@@ -1,5 +1,5 @@
 <a href="https://github.com/Dippy2003">
-  <img src="https://timeline-readme.vercel.app/api/timeline?user=dippy2003&amp;theme=mono" width="804" alt="dippy2003's contribution wave">
+  <img src="https://timeline-readme.vercel.app/api/timeline?user=dippy2003&amp;theme=mono&amp;accent=ff004c" width="804" alt="dippy2003's contribution wave">
 </a>
 
 <picture>
